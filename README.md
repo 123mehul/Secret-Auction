@@ -4,20 +4,20 @@ This program implements a simple auction bidding system in Python. It allows mul
 
 # Features
 
-Accepts multiple bids from users.
+- Accepts multiple bids from users.
 
-Records the name and bid amount of each participant.
+- Records the name and bid amount of each participant.
 
-Dynamically determines the winner with the highest bid.
+- Dynamically determines the winner with the highest bid.
 
-Allows the bidding process to continue until no further bids are submitted.
+- Allows the bidding process to continue until no further bids are submitted.
 
-Utilizes a console-clearing function to ensure a clean interface during bidding (requires the replit module).
+- Utilizes a console-clearing function to ensure a clean interface during bidding (requires the replit module).
 
 # How It Works
 
-Users are prompted to enter their name and bid amount.
+- Users are prompted to enter their name and bid amount.
 
-The program stores each bid in a dictionary.
+- The program stores each bid in a dictionary.
 
-At the end of the bidding process, the program identifies the highest bid and announces the winner.
+- At the end of the bidding process, the program identifies the highest bid and announces the winner.
