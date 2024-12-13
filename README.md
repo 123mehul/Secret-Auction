@@ -1,8 +1,8 @@
-#Auction Bidding Program
+# Auction Bidding Program
 
 This program implements a simple auction bidding system in Python. It allows multiple participants to place bids and determines the highest bidder at the end of the auction.
 
-#Features
+# Features
 
 Accepts multiple bids from users.
 
@@ -14,7 +14,7 @@ Allows the bidding process to continue until no further bids are submitted.
 
 Utilizes a console-clearing function to ensure a clean interface during bidding (requires the replit module).
 
-#How It Works
+# How It Works
 
 Users are prompted to enter their name and bid amount.
 
